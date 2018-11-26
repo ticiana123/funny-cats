@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding-top: 15px;
+}
+.logo{
+    width:10%;
+    float:left;
+}
+.fondo{
+    width: 100%
+}
+ul{
+    text-align: right;
+}
+li{
+    list-style: none;
+    display: inline-block;
+ font-family: 'Laila', serif;
+}
+a{
+    text-decoration: none;
+    font-size: 21px;
+}
+a:hover{
+    color: #d91a73;
+}
